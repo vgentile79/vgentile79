@@ -13,7 +13,7 @@ Soy un desarrollador apasionado por la tecnología, con experiencia en **Java, P
   
 - 💞️ Estoy abierto a colaborar en proyectos innovadores y con impacto real.
   
-- 📫 Podés contactarme a través de [veronica@gentile@hotmail.com o www.linkedin.com/in/veronica-gentile-84a789285].
+- 📫 Podés contactarme a través de [veronica_gentile@hotmail.com o www.linkedin.com/in/veronica-gentile-84a789285].
     
 - ⚡ Dato curioso: Me encanta la programación, pero también disfruto de la **costa y el tejer**.  
 
